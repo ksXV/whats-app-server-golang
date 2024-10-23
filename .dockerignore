@@ -1,0 +1,4 @@
+# remove this and introduce docker secrets or smth else
+# .env
+*.yaml
+bin
